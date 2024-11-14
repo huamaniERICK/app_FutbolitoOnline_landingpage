@@ -7,6 +7,7 @@ def index()->rx.Component:
   return rx.box(
     encabezado(),
     seccion(),
+    background="#07f279",
   )
 
   

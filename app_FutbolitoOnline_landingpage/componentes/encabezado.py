@@ -4,7 +4,7 @@ def encabezado()->rx.Component:
       rx.hstack(
         rx.image(src="/futbol y copa.png", width="60px", height="auto"),
         
-        rx.heading("FutbolitoOnline",size="6",weight="roboto"),
+        rx.heading("FutbolitoOnline",size="6",weight="roboto",color="#f6db0e"),
         align_items="center"
       ),
       
